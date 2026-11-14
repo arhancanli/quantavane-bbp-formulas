@@ -1,0 +1,11 @@
+BBP fixed-point sum (2.4s)
+main identity at 6000 digits: log10|diff| = -6008.177210240811
+degree-1 sibling: sum c_k/(2^ceil(k/2) k) - pi sqrt5/10 = 0.0
+red controls (each must FAIL, i.e. |diff| far above 1e-300):
+  c_1 -> c_1+1 (period 40): |diff| = 0.66667
+  c_3 -> c_3+1 (period 40): |diff| = 0.037037
+  c_19 -> c_19+1 (period 40): |diff| = 3.6069e-6
+  companion sqrt5/15 -> sqrt5/16: |diff| = 0.020288
+  drop companion: |diff| = 0.32462
+  prefactor 4/3 -> 5/4: |diff| = 0.050214
+  unperturbed at 300 digits: |diff| = 7.7344e-310

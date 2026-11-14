@@ -1,0 +1,15 @@
+== cert_bb30.json
+field Q(zeta_40), relations 52, classes involved 69
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+red 1: MISMATCH in 1 classes
+red 2: MISMATCH in 4 classes
+== cert_bb15.json
+field Q(zeta_30), relations 88, classes involved 113
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+red 1: MISMATCH in 1 classes
+red 2: MISMATCH in 2 classes
+== cert_bb24.json
+field Q(zeta_24), relations 14, classes involved 26
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+red 1: MISMATCH in 1 classes
+red 2: MISMATCH in 5 classes

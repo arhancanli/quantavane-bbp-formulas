@@ -1,0 +1,7 @@
+seeds exceptional: 69  (0.2s)
+after symmetry closure: 215
+round 0: elements 215, relations 7513 (+7513) (2.9s)
+   new elements 4907
+round 1: elements 4907, relations 53357 (+45844) (31.2s)
+classes 1317, relations 53357; target classes not touched by any relation: 0
+least-squares residual 2.990e+00

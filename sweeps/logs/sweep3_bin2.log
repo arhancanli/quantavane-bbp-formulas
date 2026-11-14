@@ -1,0 +1,58 @@
+[guard] load 50.44 >= 48, waiting 60 s
+=== p=2 s=2 b=2^12 n=24 dim=50 dps=2250 | rel 9 (zero 0, target-only 0) | target rank 7 | 12.7s
+   in span: pi**2:1
+   in span: G:1
+   in span: pi*l2:1
+   in span: l2**2:1
+   in span: L(-3,2):1
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+   in span: s3*pi*l2:1
+=== p=2 s=2 b=2^24 n=24 dim=50 dps=2250 | rel 3 (zero 0, target-only 0) | target rank 3 | 13.1s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: L(-3,2):1, s3*pi*l2:-4/45
+=== p=2 s=2 b=2^6 n=24 dim=50 dps=2250 | rel 4 (zero 0, target-only 0) | target rank 4 | 13.3s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: L(-3,2):1, s3*pi*l2:-4/45
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+=== p=2 s=2 b=2^24 n=48 dim=74 dps=3330 | rel 9 (zero 0, target-only 0) | target rank 7 | 119.5s
+   in span: pi**2:1
+   in span: G:1
+   in span: pi*l2:1
+   in span: l2**2:1
+   in span: L(-3,2):1
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+   in span: s3*pi*l2:1
+=== p=2 s=2 b=2^12 n=48 dim=74 dps=3330 | rel 9 (zero 0, target-only 0) | target rank 7 | 118.9s
+   in span: pi**2:1
+   in span: G:1
+   in span: pi*l2:1
+   in span: l2**2:1
+   in span: L(-3,2):1
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+   in span: s3*pi*l2:1
+=== p=2 s=2 b=2^48 n=48 dim=74 dps=3330 | rel 3 (zero 0, target-only 0) | target rank 3 | 136.4s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: L(-3,2):1, s3*pi*l2:-4/45
+=== p=2 s=2 b=2^20 n=40 dim=66 dps=2970 | rel 5 (zero 0, target-only 0) | target rank 4 | 69.6s
+   in span: pi**2:1
+   in span: G:1
+   in span: pi*l2:1
+   in span: l2**2:1
+=== p=2 s=2 b=2^10 n=40 dim=66 dps=2970 | rel 1 (zero 0, target-only 0) | target rank 1 | 77.1s
+   in span: pi**2:1, l2**2:-6
+=== p=2 s=2 b=2^40 n=40 dim=66 dps=2970 | rel 1 (zero 0, target-only 0) | target rank 1 | 77.7s
+   in span: pi**2:1, l2**2:-6
+=== p=2 s=2 b=2^16 n=32 dim=58 dps=2610 | rel 3 (zero 0, target-only 0) | target rank 3 | 25.9s
+   in span: pi**2:1
+   in span: G:1, pi*l2:-1/8
+   in span: l2**2:1
+=== p=2 s=2 b=2^8 n=32 dim=58 dps=2610 | rel 3 (zero 0, target-only 0) | target rank 3 | 26.1s
+   in span: pi**2:1
+   in span: G:1, pi*l2:-1/8
+   in span: l2**2:1
+=== p=2 s=2 b=2^32 n=32 dim=58 dps=2610 | rel 1 (zero 0, target-only 0) | target rank 1 | 38.7s
+   in span: pi**2:1, l2**2:-6
+SWEEP3 DONE

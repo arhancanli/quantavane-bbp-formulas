@@ -1,0 +1,56 @@
+### binary chi_-24
+=== p=2 s=2 b=2^12 n=24 dim=47 dps=2115 | rel 9 (zero 0, target-only 0) | target rank 7 | 10.1s
+   in span: pi**2:1
+   in span: G:1
+   in span: pi*l2:1
+   in span: l2**2:1
+   in span: L(-3,2):1
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+   in span: s3*pi*l2:1
+=== p=2 s=2 b=2^6 n=24 dim=47 dps=2115 | rel 4 (zero 0, target-only 0) | target rank 4 | 10.8s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: L(-3,2):1, s3*pi*l2:-4/45
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+=== p=2 s=2 b=2^24 n=48 dim=71 dps=3195 | rel 9 (zero 0, target-only 0) | target rank 7 | 86.0s
+   in span: pi**2:1
+   in span: G:1
+   in span: pi*l2:1
+   in span: l2**2:1
+   in span: L(-3,2):1
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+   in span: s3*pi*l2:1
+=== p=2 s=2 b=2^12 n=48 dim=71 dps=3195 | rel 9 (zero 0, target-only 0) | target rank 7 | 50.5s
+   in span: pi**2:1
+   in span: G:1
+   in span: pi*l2:1
+   in span: l2**2:1
+   in span: L(-3,2):1
+   in span: L(-8,2):1, s2*pi*l2:-3/32
+   in span: s3*pi*l2:1
+SWEEP3 DONE
+### ternary chi_-8, chi_-24
+=== p=3 s=2 b=3^12 n=24 dim=47 dps=2115 | rel 4 (zero 0, target-only 0) | target rank 4 | 11.6s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: s3*pi*l3:1
+   in span: L(-3,2):1
+=== p=3 s=2 b=3^6 n=24 dim=47 dps=2115 | rel 4 (zero 0, target-only 0) | target rank 4 | 10.7s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: s3*pi*l3:1
+   in span: L(-3,2):1
+=== p=3 s=2 b=3^24 n=24 dim=47 dps=2115 | rel 1 (zero 0, target-only 0) | target rank 1 | 10.9s
+   in span: pi**2:1, l3**2:-3
+=== p=3 s=2 b=3^24 n=48 dim=71 dps=3195 | rel 4 (zero 0, target-only 0) | target rank 4 | 94.5s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: s3*pi*l3:1
+   in span: L(-3,2):1
+=== p=3 s=2 b=3^12 n=48 dim=71 dps=3195 | rel 4 (zero 0, target-only 0) | target rank 4 | 87.2s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: s3*pi*l3:1
+   in span: L(-3,2):1
+SWEEP3 DONE
+SWEEP5 ALL DONE

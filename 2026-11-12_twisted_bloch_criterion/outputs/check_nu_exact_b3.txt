@@ -1,0 +1,1 @@
+base 3: 436 relative norms nu recomputed exactly in Q(zeta_M) and equal to (x + y sqrt d)/2; obstruction vectors re-derived: all equal

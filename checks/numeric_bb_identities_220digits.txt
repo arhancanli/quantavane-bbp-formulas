@@ -1,0 +1,4 @@
+D = -11: |lhs - Z_D| = 0.0 at 220 digits; red control (c_1 + 1): 0.3975222
+D = -15: |lhs - Z_D| = 0.0 at 220 digits; red control (c_1 + 1): 0.81369872
+D = -20: |lhs - Z_D| = 4.8e-240 at 220 digits; red control (c_1 + 1): 0.55774017
+D = -24: |lhs - Z_D| = 4.8e-240 at 220 digits; red control (c_1 + 1): 0.83669264

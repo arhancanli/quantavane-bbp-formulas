@@ -1,0 +1,8 @@
+field Q(zeta_40), relations 12, classes involved 23
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+field Q(zeta_40), relations 16, classes involved 24
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+field Q(zeta_40), relations 18, classes involved 27
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+classes involved: 18
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = claim

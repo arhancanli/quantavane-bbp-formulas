@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these certificates or programs, please cite them as below."
+type: dataset
+title: "Binary BBP-type formulas for L(2, chi_d): certificates, search and checks"
+abstract: "Five-term-relation certificates, checked in exact arithmetic, for binary BBP-type formulas for L(2, chi_-8) and L(2, chi_-20), for the identities (27), (29), (30) and (37) of Borwein and Broadhurst (1998) and for a dilogarithm identity on the Galois orbit of exp(pi i/20)/sqrt 2; the exhaustive search of base-b points with its complete output; the verifiers, the proof-step programs and the numerical checks behind the paper \"Binary BBP-type formulas for L(2, chi_d): a Bloch-group criterion, an exhaustive search, and new formulas for Q(sqrt(-2)) and Q(sqrt(-5))\"."
+authors:
+  - family-names: Canli
+    given-names: Arhan
+    affiliation: Quantavane
+    email: arhan@quantavane.com
+license: CC-BY-4.0
+url: "https://quantavane.com"
+repository-code: "https://github.com/arhancanli/quantavane-bbp-formulas"
+date-released: "2026-11-14"
+keywords:
+  - BBP-type formulas
+  - Dirichlet L-values
+  - dilogarithm
+  - Bloch group
+  - five-term relation
+  - exact verification

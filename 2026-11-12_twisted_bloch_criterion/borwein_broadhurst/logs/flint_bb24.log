@@ -1,0 +1,5 @@
+system: 46 classes x 213 relations
+try 0: support 15
+try 2: support 14
+class-level check: OK
+written cert_bb24.json with 14 relations

@@ -1,0 +1,4 @@
+(a) g * i = sqrt5/4 exactly: True
+(b) (1 - z_7)(1 - z_17) zeta^6 is real: True  (numerically 1.538842 )
+(c) (1 - z_1) conj(1 - z_17) zeta is real: True  (numerically 0.533698 )
+ALL BRANCH FACTS VERIFIED EXACTLY

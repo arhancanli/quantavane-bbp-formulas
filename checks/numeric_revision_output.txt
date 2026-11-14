@@ -1,0 +1,19 @@
+Cor 3.2: 6Cl2(t)-(5/2)Cl2(2t)+(1/4)Cl2(4t) - 4 sqrt2 L8: 0.0
+null: 3Cl2(t)+Cl2(2t)+Cl2(3t)-Cl2(4t): 1.1066e-221
+Almkvist 1.2 with tan(a)=1/sqrt2: 0.0
+pi - 2 phi - theta_2: 1.0853e-221
+Ti2(tan t) - t log tan t - (Cl2(2t)+Cl2(pi-2t))/2 at t = 0.61547971: 0.0
+Ti2(tan t) - t log tan t - (Cl2(2t)+Cl2(pi-2t))/2 at t = 0.33983691: 0.0
+duplication Cl2(2x) - 2Cl2(x) + 2Cl2(pi-x) at x = theta_2: 0.0
+real ladder 6Li2(-1/2) - Li2(-1/8) + pi^2/3 - (3/2) log^2 2: 4.4263e-221
+Broadhurst (16): Re(6Li2(h)-Li2(h^3)) + pi^2/12 - (3/8)log^2 2: 3.3197e-221
+BB98 (27): (1/2)(27Cl2-9Cl2+Cl2) - 8(Cl2(pi/4)+Cl2(3pi/4)): -1.7705e-220
+BBBZ (10) as printed: LHS/RHS (should be 2 if the 1/2 is missing): 2.0
+P(1,16,8,(8,8,4,0,-2,-2,-1,0)) - 4 pi: -1.8827e-74
+P(1,64,12,A8) - 8 sqrt2 pi: -5.017e-74
+P(1,2^20,40,A) - 2^19 pi sqrt5/5: -1.2298e-69
+T1 = ImLi2(z7)+ImLi2(z17) - [(21C1-C2)/16 - (3pi/20) log2]: -4.4263e-221
+T2 = ImLi2(z1)-ImLi2(z9) - [-(C1+21C2)/16 + (pi/20) log2]: 0.0
+Prop 5.1 (i):  S1 - (4 pi log2/5525)(32a+9b) - P(V1)/(2^16*221): 9.4432e-622
+Prop 5.1 (ii): S2 + (4 pi log2/5525)(9a-32b) - P(V2)/(2^16*221): 1.1804e-622
+red control: (i) with 32 replaced by 31: 0.0059975

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+/results/.tmp
+/sweeps/venv/
+# local agent tooling state (never part of the repository)
+.claude-flow/
+.swarm/
+ruvector.db
+agentdb*

@@ -1,0 +1,8 @@
+=== b=2^20 n=40 dim=57 dps=2565 | rel 8 | target rank 7 | LLL 17.6s total 24.7s
+   in span: G:1
+   in span: L20:1, s5*pi*l2:-1/15
+   in span: a5*C1:1, b5*C2:1, a5*pi*l2:-128/1105, b5*pi*l2:-36/1105
+   in span: a5*C2:1, b5*C1:-1, a5*pi*l2:-36/1105, b5*pi*l2:128/1105
+   in span: pi*l2:1
+   in span: pi^2:1
+   in span: l2^2:1

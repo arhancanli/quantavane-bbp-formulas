@@ -1,0 +1,20 @@
+== cert_G.json
+Q(zeta_40) via FLINT polynomials: 250 relations, 260 classes
+CERTIFICATE VERIFIED EXACTLY (second verifier)
+== cert_bb30.json
+Q(zeta_40) via FLINT polynomials: 52 relations, 69 classes
+CERTIFICATE VERIFIED EXACTLY (second verifier)
+== cert_bb15.json
+Q(zeta_30) via FLINT polynomials: 88 relations, 113 classes
+CERTIFICATE VERIFIED EXACTLY (second verifier)
+== cert_bb24.json
+Q(zeta_24) via FLINT polynomials: 14 relations, 26 classes
+CERTIFICATE VERIFIED EXACTLY (second verifier)
+red control cert_G_red.json: MISMATCH in 1 classes
+red control cert_G_red2.json: MISMATCH in 3 classes
+red control cert_bb15_red1.json: MISMATCH in 1 classes
+red control cert_bb15_red2.json: MISMATCH in 2 classes
+red control cert_bb24_red1.json: MISMATCH in 1 classes
+red control cert_bb24_red2.json: MISMATCH in 5 classes
+red control cert_bb30_red1.json: MISMATCH in 1 classes
+red control cert_bb30_red2.json: MISMATCH in 4 classes

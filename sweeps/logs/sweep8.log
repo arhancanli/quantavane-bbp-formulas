@@ -1,0 +1,55 @@
+### (A) base 2, weight 2, periods 24k
+=== p=2 s=2 b=2^12 n=24 dim=43 dps=1935 | rel 7 (zero 0, target-only 0) | target rank 5 | 7.4s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: pi*l2:1
+   in span: G:1
+   in span: L(-3,2):1
+=== p=2 s=2 b=2^6 n=24 dim=43 dps=1935 | rel 2 (zero 0, target-only 0) | target rank 2 | 7.2s
+   in span: pi**2:1
+   in span: l2**2:1
+=== p=2 s=2 b=2^12 n=48 dim=67 dps=3015 | rel 7 (zero 0, target-only 0) | target rank 5 | 37.9s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: pi*l2:1
+   in span: G:1
+   in span: L(-3,2):1
+=== p=2 s=2 b=2^24 n=48 dim=67 dps=3015 | rel 7 (zero 0, target-only 0) | target rank 5 | 35.2s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: pi*l2:1
+   in span: G:1
+   in span: L(-3,2):1
+=== p=2 s=2 b=2^6 n=72 dim=91 dps=4095 | rel 2 (zero 0, target-only 0) | target rank 2 | 203.9s
+   in span: pi**2:1
+   in span: l2**2:1
+=== p=2 s=2 b=2^12 n=72 dim=91 dps=4095 | rel 7 (zero 0, target-only 0) | target rank 5 | 159.7s
+   in span: pi**2:1
+   in span: l2**2:1
+   in span: pi*l2:1
+   in span: G:1
+   in span: L(-3,2):1
+SWEEP3 DONE
+### (B) base 3, weight 2, periods 24k
+=== p=3 s=2 b=3^2 n=24 dim=43 dps=1935 | rel 1 (zero 0, target-only 0) | target rank 1 | 7.7s
+   in span: pi**2:1, l3**2:-3
+=== p=3 s=2 b=3^6 n=24 dim=43 dps=1935 | rel 3 (zero 0, target-only 0) | target rank 3 | 6.7s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: L(-3,2):1
+=== p=3 s=2 b=3^2 n=48 dim=67 dps=3015 | rel 1 (zero 0, target-only 0) | target rank 1 | 46.2s
+   in span: pi**2:1, l3**2:-3
+=== p=3 s=2 b=3^6 n=48 dim=67 dps=3015 | rel 3 (zero 0, target-only 0) | target rank 3 | 41.6s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: L(-3,2):1
+=== p=3 s=2 b=3^12 n=48 dim=67 dps=3015 | rel 3 (zero 0, target-only 0) | target rank 3 | 43.4s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: L(-3,2):1
+=== p=3 s=2 b=3^6 n=72 dim=91 dps=4095 | rel 3 (zero 0, target-only 0) | target rank 3 | 189.3s
+   in span: pi**2:1
+   in span: l3**2:1
+   in span: L(-3,2):1
+SWEEP3 DONE
+SWEEP8 ALL DONE

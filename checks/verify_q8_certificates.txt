@@ -1,0 +1,10 @@
+# 12 Nov 2026: exact verification of the Q(zeta_8) certificates
+## independent verifier (verify_q8_independent.py, this paper)
+L8: relations 8, orbit classes 18: VERIFIED EXACTLY
+BB27: relations 24, orbit classes 31: VERIFIED EXACTLY
+## red controls (must fail)
+BB27: relations 24, orbit classes 31: MISMATCH in 4 classes
+L8: relations 24, orbit classes 31: MISMATCH in 7 classes
+## lane verifier with the claim replaced (verify_bb27_lane_copy.py; needs the lane's cyclo.py next to it)
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = claim
+## sparse search (lane's sparse_cert.py, 300 orders): best support 24; full span solution used 37 relations, also verified

@@ -1,0 +1,6 @@
+field Q(zeta_40), relations 250, classes involved 260
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+red control cert_G_red.json:
+MISMATCH in 1 classes
+red control cert_G_red2.json:
+MISMATCH in 3 classes

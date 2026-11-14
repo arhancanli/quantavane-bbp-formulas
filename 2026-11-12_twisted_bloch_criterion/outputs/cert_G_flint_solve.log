@@ -1,0 +1,4 @@
+system: 277 classes x 259 relations
+try 0: support 250
+class-level check: OK
+written cert_G_rerun.json with 250 relations

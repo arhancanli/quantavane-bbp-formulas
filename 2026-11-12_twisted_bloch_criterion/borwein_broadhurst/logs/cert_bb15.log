@@ -1,0 +1,9 @@
+seeds exceptional: 33  (0.0s)
+after symmetry closure: 107
+round 0: elements 107, relations 2516 (+2516) (0.4s)
+   new elements 2373
+round 1: elements 2373, relations 70097 (+67581) (6.8s)
+classes 746, relations 70097; target classes not touched by any relation: 0
+least-squares residual 1.029e-11
+OMP: support 92, residual 9.24e-14 (0.2s)
+dumped OMP system

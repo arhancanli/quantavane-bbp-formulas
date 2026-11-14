@@ -1,0 +1,4 @@
+L(2,chi_-20) = 1.12804332474094707284833170787
+Corollary A: |L - (sqrt5/15) pi log2 - (4/3) S| = 2.9091e-320
+Theorem A: |sum Im Li2 - ((3 sqrt5/4) L - (pi/4) log 2)| = 4.5083e-131
+red control (c_1 + 1): difference 0.66667

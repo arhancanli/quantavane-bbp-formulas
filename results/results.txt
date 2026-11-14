@@ -1,0 +1,35 @@
+run_checks.sh 2026-11-14T08:31:54Z; Python 3.9.6
+=== 1. third checker
+[Table 1 / Thm 3.1, Q(zeta_8)] relations=8 reduced symbols=4 target symbols=4 -> EXACT MATCH
+[Table 5 / Thm 1.3 (BB (27)), Q(zeta_8)] relations=24 reduced symbols=5 target symbols=5 -> EXACT MATCH
+[Table 2 / Thm 4.1, Q(zeta_40)] relations=12 reduced symbols=8 target symbols=8 -> EXACT MATCH
+[Table 3 / Thm 4.3 first, Q(zeta_40)] relations=16 reduced symbols=4 target symbols=4 -> EXACT MATCH
+[Table 4 / Thm 4.3 second, Q(zeta_40)] relations=18 reduced symbols=8 target symbols=8 -> EXACT MATCH
+same as checks/third_checker/check_certs_output.txt
+=== 2. exact steps of the proofs
+PROPOSITION 5.1 STEPS VERIFIED EXACTLY {'V1': True, 'V2': True}
+  same as checks/prove_cond5_output.txt
+THEOREM 6.3 STEPS VERIFIED EXACTLY
+  same as checks/prove_thm_G_output.txt
+ALL BRANCH FACTS VERIFIED EXACTLY
+  same as checks/branch_exact_output.txt
+=== 3. first exact verifier
+2026-11-11_L8_binary_BBP certificate: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = claim
+2026-11-12_L20_binary_BBP cert_A: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+2026-11-12_L20_binary_BBP cert_B1: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+2026-11-12_L20_binary_BBP cert_B2: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+2026-11-12_twisted_bloch_criterion cert_G: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+2026-11-12_twisted_bloch_criterion cert_G_red (red control): MISMATCH in 1 classes
+2026-11-12_twisted_bloch_criterion borwein_broadhurst cert_bb15: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+2026-11-12_twisted_bloch_criterion borwein_broadhurst cert_bb24: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+2026-11-12_twisted_bloch_criterion borwein_broadhurst cert_bb30: CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+=== 4. separate verifier in Q(zeta_8)
+L8: L8: relations 8, orbit classes 18: VERIFIED EXACTLY
+BB27: BB27: relations 24, orbit classes 31: VERIFIED EXACTLY
+BB27 red control: BB27: relations 24, orbit classes 31: MISMATCH in 4 classes
+=== 5. second verifier (FLINT)
+cert_G: CERTIFICATE VERIFIED EXACTLY (second verifier)
+cert_bb15: CERTIFICATE VERIFIED EXACTLY (second verifier)
+cert_bb24: CERTIFICATE VERIFIED EXACTLY (second verifier)
+cert_bb30: CERTIFICATE VERIFIED EXACTLY (second verifier)
+ALL PASS

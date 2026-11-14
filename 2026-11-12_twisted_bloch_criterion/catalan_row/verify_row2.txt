@@ -1,0 +1,4 @@
+field Q(zeta_8), relations 2, classes involved 4
+CERTIFICATE VERIFIED EXACTLY: sum_i c_i (five-term relation_i) = target combination
+Q(zeta_8) via FLINT polynomials: 2 relations, 4 classes
+CERTIFICATE VERIFIED EXACTLY (second verifier)

@@ -1,0 +1,36 @@
+=== s=3 b=3^24 n=48 dim=55 dps=2475 | relations 3 (zero relations 0) | target rank 3 | 16.1s
+   in span: z3:1, l3_3:-2/39
+   in span: pi2l3:1, l3_3:-5/3
+   in span: s3pi3:1, s3pil3_2:-27/29
+=== s=3 b=3^16 n=48 dim=55 dps=2475 | relations 1 (zero relations 0) | target rank 1 | 16.8s
+   in span: z3:1, pi2l3:-1/13, l3_3:1/13
+=== s=3 b=3^32 n=48 dim=55 dps=2475 | relations 0 (zero relations 0) | target rank 0 | 3.8s
+=== s=3 b=3^48 n=48 dim=55 dps=2475 | relations 1 (zero relations 0) | target rank 1 | 14.4s
+   in span: z3:1, pi2l3:-1/13, l3_3:1/13
+=== s=3 b=3^12 n=48 dim=55 dps=2475 | relations 3 (zero relations 0) | target rank 3 | 13.2s
+   in span: z3:1, l3_3:-2/39
+   in span: pi2l3:1, l3_3:-5/3
+   in span: s3pi3:1, s3pil3_2:-27/29
+=== s=3 b=3^30 n=60 dim=67 dps=3015 | relations 3 (zero relations 0) | target rank 3 | 37.0s
+   in span: z3:1, l3_3:-2/39
+   in span: pi2l3:1, l3_3:-5/3
+   in span: s3pi3:1, s3pil3_2:-27/29
+=== s=3 b=3^20 n=60 dim=67 dps=3015 | relations 1 (zero relations 0) | target rank 1 | 40.7s
+   in span: z3:1, pi2l3:-1/13, l3_3:1/13
+=== s=3 b=3^40 n=60 dim=67 dps=3015 | relations 0 (zero relations 0) | target rank 0 | 11.6s
+=== s=3 b=3^60 n=60 dim=67 dps=3015 | relations 1 (zero relations 0) | target rank 1 | 48.7s
+   in span: z3:1, pi2l3:-1/13, l3_3:1/13
+=== s=3 b=3^15 n=60 dim=67 dps=3015 | relations 0 (zero relations 0) | target rank 0 | 12.5s
+=== s=3 b=3^36 n=72 dim=79 dps=3555 | relations 3 (zero relations 0) | target rank 3 | 98.0s
+   in span: z3:1, l3_3:-2/39
+   in span: pi2l3:1, l3_3:-5/3
+   in span: s3pi3:1, s3pil3_2:-27/29
+=== s=3 b=3^24 n=72 dim=79 dps=3555 | relations 1 (zero relations 0) | target rank 1 | 95.8s
+   in span: z3:1, pi2l3:-1/13, l3_3:1/13
+=== s=3 b=3^48 n=72 dim=79 dps=3555 | relations 0 (zero relations 0) | target rank 0 | 46.3s
+=== s=3 b=3^72 n=72 dim=79 dps=3555 | relations 0 (zero relations 0) | target rank 0 | 48.7s
+=== s=3 b=3^18 n=72 dim=79 dps=3555 | relations 3 (zero relations 0) | target rank 3 | 95.3s
+   in span: z3:1, l3_3:-2/39
+   in span: pi2l3:1, l3_3:-5/3
+   in span: s3pi3:1, s3pil3_2:-27/29
+SWEEP2 DONE

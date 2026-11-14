@@ -1,0 +1,98 @@
+base 2: 252 orbits, 5552 non-real points zeta_M^j 2^(-k/2) with M <= 120, k <= 4 (0.0s)
+distribution relations inside the point set: 3588 (skipped 336 reaching outside)
+   zero complement vectors: 8 vanish formally (so q = 0 exactly); unexplained: 0
+d=-3: orbits 88 (single-orbit certifiable: 3), dim K = 45, dim Dist = 35, dim K/Dist = 10, rank(q,r) = 2 (2.3s)
+   COMP [(6, 1, 2, '1')]: q = 1.25 [5/4], r = -0.33333333333333333333 [-1/3]
+   COMP [(24, 1, 1, '1')]: q = 1.875 [15/8], r = -0.33333333333333333333 [-1/3]
+   COMP [(36, 1, 4, '-3/4'), (48, 1, 3, '1')]: q = 1.2134786579173677334e-46 [0], r = -5.4884708487092675781e-47 [0]
+   COMP [(54, 1, 2, '-3/2'), (72, 2, 3, '1')]: q = 2.4269573158347354668e-46 [0], r = -8.8860956598150046502e-47 [0]
+   COMP [(54, 2, 2, '-3/2'), (72, 4, 3, '1')]: q = 2.2651601614457531024e-46 [0], r = -2.6135575470044131324e-47 [0]
+   COMP [(54, 1, 4, '3/4'), (72, 1, 3, '-1'), (72, 5, 3, '1')]: q = 2.7505516246127001957e-46 [0], r = -1.045423018801765253e-46 [0]
+   COMP [(72, 1, 4, '-3/4'), (96, 1, 3, '1')]: q = -2.3662833829388670801e-46 [0], r = 4.4430478299075023251e-47 [0]
+   COMP [(90, 1, 2, '-3/2'), (120, 2, 3, '1')]: q = -2.2651601614457531024e-46 [0], r = 2.7877947168047073412e-47 [0]
+   COMP [(90, 2, 2, '-3/2'), (120, 4, 3, '1')]: q = 6.1482918667813298493e-46 [0], r = -1.3938973584023536706e-46 [0]
+   COMP [(90, 1, 4, '3/4'), (120, 1, 3, '-1'), (120, 11, 3, '1')]: q = 2.5887544702237178313e-46 [0], r = -5.5755894336094146825e-47 [0]
+   zero complement vectors: 7 vanish formally (so q = 0 exactly); unexplained: 0
+d=-4: orbits 106 (single-orbit certifiable: 2), dim K = 48, dim Dist = 38, dim K/Dist = 10, rank(q,r) = 2 (1.1s)
+   COMP [(8, 1, 1, '1')]: q = 1.0 [1], r = -0.25 [-1/4]
+   COMP [(4, 1, 2, '3/2'), (8, 1, 3, '1')]: q = 2.0 [2], r = -0.75 [-3/4]
+   COMP [(4, 1, 2, '-1/2'), (40, 1, 1, '1')]: q = 0.2 [1/5], r = -4.1816920752070610119e-47 [0]
+   COMP [(36, 1, 4, '-3/4'), (48, 1, 3, '1')]: q = 1.4940032030312684372e-46 [0], r = -7.4921983014126509796e-47 [0]
+   COMP [(16, 1, 4, '3/4'), (48, 1, 4, '-3/4'), (64, 1, 3, '1')]: q = -2.9880064060625368745e-47 [0], r = 1.4374566508524272228e-47 [0]
+   COMP [(20, 1, 4, '3/4'), (60, 1, 4, '-3/4'), (80, 1, 3, '1')]: q = 1.1952025624250147498e-47 [0], r = 3.3105062262055899677e-47 [0]
+   COMP [(28, 1, 2, '-1'), (56, 1, 3, '-2/3'), (56, 3, 3, '2/3'), (84, 1, 2, '1')]: q = -3.8246481997600471993e-46 [0], r = 5.5755894336094146825e-47 [0]
+   COMP [(72, 1, 4, '-3/4'), (96, 1, 3, '1')]: q = 2.4352252209409675527e-46 [0], r = -3.9203363205066196986e-47 [0]
+   COMP [(72, 1, 3, '-2/3'), (72, 5, 3, '-2/3'), (108, 1, 2, '1')]: q = 6.3345735808525781739e-46 [0], r = -2.4306085187141042132e-46 [0]
+   COMP [(28, 1, 4, '3/4'), (84, 1, 4, '-3/4'), (112, 1, 3, '1')]: q = 1.404363010849392331e-46 [0], r = -8.7118584900147104414e-47 [0]
+   zero complement vectors: 4 vanish formally (so q = 0 exactly); unexplained: 0
+d=-7: orbits 34 (single-orbit certifiable: 0), dim K = 16, dim Dist = 12, dim K/Dist = 4, rank(q,r) = 0 (0.3s)
+   COMP [(14, 1, 2, '3/2'), (42, 1, 2, '-3/2'), (56, 2, 3, '1')]: q = 3.1610396790769617024e-46 [0], r = -2.7877947168047073412e-46 [0]
+   COMP [(14, 1, 4, '-3/4'), (42, 1, 4, '3/4'), (56, 1, 3, '-1'), (56, 3, 3, '1')]: q = -1.1494689742098042554e-46 [0], r = 1.1151178867218829365e-46 [0]
+   COMP [(14, 2, 2, '3/2'), (42, 2, 2, '-3/2'), (56, 4, 3, '1')]: q = -2.8736724355245106385e-47 [0], r = -5.5755894336094146825e-47 [0]
+   COMP [(28, 1, 4, '3/4'), (84, 1, 4, '-3/4'), (112, 1, 3, '1')]: q = -1.3111130487080579788e-46 [0], r = 7.3397407778373935469e-47 [0]
+   zero complement vectors: 4 vanish formally (so q = 0 exactly); unexplained: 0
+d=-8: orbits 60 (single-orbit certifiable: 0), dim K = 24, dim Dist = 19, dim K/Dist = 5, rank(q,r) = 1 (0.4s)
+   COMP [(8, 2, 1, '6'), (8, 2, 3, '1')]: q = 4.0 [4], r = -1.5 [-3/2]
+   COMP [(16, 1, 4, '-3/4'), (48, 1, 4, '-3/4'), (64, 1, 3, '1')]: q = -1.6722157989182544551e-46 [0], r = 8.5376213202144162326e-47 [0]
+   COMP [(48, 1, 3, '-2/3'), (72, 1, 2, '1')]: q = -4.0714819451922717166e-46 [0], r = 2.3696255092840012401e-46 [0]
+   COMP [(72, 1, 4, '-3/4'), (96, 1, 3, '1')]: q = 1.890330903124983297e-46 [0], r = -1.18481275464200062e-46 [0]
+   COMP [(40, 1, 2, '1'), (80, 1, 3, '-2/3'), (120, 1, 2, '1')]: q = -2.3265611115384409809e-46 [0], r = -5.5755894336094146825e-47 [0]
+   zero complement vectors: 3 vanish formally (so q = 0 exactly); unexplained: 0
+d=-11: orbits 24 (single-orbit certifiable: 0), dim K = 11, dim Dist = 8, dim K/Dist = 3, rank(q,r) = 0 (0.4s)
+   COMP [(22, 1, 2, '-3/2'), (66, 1, 2, '-3/2'), (88, 2, 3, '1')]: q = 1.1613227558337844079e-46 [0], r = -5.5755894336094146825e-47 [0]
+   COMP [(22, 1, 4, '-3/4'), (66, 1, 4, '-3/4'), (88, 1, 3, '1'), (88, 3, 3, '1')]: q = 0.0 [0], r = 0.0 [0]
+   COMP [(22, 2, 2, '-3/2'), (66, 2, 2, '-3/2'), (88, 4, 3, '1')]: q = -5.8066137791689220393e-47 [0], r = 8.3633841504141220237e-47 [0]
+   zero complement vectors: 3 vanish formally (so q = 0 exactly); unexplained: 0
+d=-15: orbits 20 (single-orbit certifiable: 0), dim K = 10, dim Dist = 7, dim K/Dist = 3, rank(q,r) = 0 (0.2s)
+   COMP [(90, 1, 2, '-3/2'), (120, 2, 3, '1')]: q = 1.3952202622750615618e-46 [0], r = -1.3938973584023536706e-46 [0]
+   COMP [(90, 2, 2, '-3/2'), (120, 4, 3, '1')]: q = -1.2208177294906788665e-46 [0], r = 1.6726768300828244047e-46 [0]
+   COMP [(90, 1, 4, '3/4'), (120, 1, 3, '-1'), (120, 11, 3, '1')]: q = 0.0 [0], r = 1.1151178867218829365e-46 [0]
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-19: orbits 10 (single-orbit certifiable: 0), dim K = 3, dim Dist = 3, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 1 vanish formally (so q = 0 exactly); unexplained: 0
+d=-20: orbits 22 (single-orbit certifiable: 1), dim K = 10, dim Dist = 8, dim K/Dist = 2, rank(q,r) = 1 (0.1s)
+   COMP [(40, 1, 1, '1')]: q = 0.75 [3/4], r = -0.5 [-1/2]
+   COMP [(20, 1, 4, '-3/4'), (60, 1, 4, '-3/4'), (80, 1, 3, '1')]: q = 1.3020604548737912504e-47 [0], r = 1.1151178867218829365e-46 [0]
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-23: orbits 6 (single-orbit certifiable: 0), dim K = 2, dim Dist = 2, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 2 vanish formally (so q = 0 exactly); unexplained: 0
+d=-24: orbits 20 (single-orbit certifiable: 0), dim K = 7, dim Dist = 5, dim K/Dist = 2, rank(q,r) = 0 (0.1s)
+   COMP [(48, 1, 3, '-2/3'), (72, 1, 2, '1')]: q = 6.7601877241225274705e-47 [0], r = -1.1151178867218829365e-46 [0]
+   COMP [(72, 1, 4, '-3/4'), (96, 1, 3, '1')]: q = -4.0138614611977506856e-47 [0], r = -1.3938973584023536706e-47 [0]
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-31: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-35: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-39: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 1 vanish formally (so q = 0 exactly); unexplained: 0
+d=-40: orbits 12 (single-orbit certifiable: 0), dim K = 4, dim Dist = 3, dim K/Dist = 1, rank(q,r) = 0 (0.1s)
+   COMP [(40, 1, 2, '-1'), (80, 1, 3, '-2/3'), (120, 1, 2, '1')]: q = -2.3787627475536111535e-46 [0], r = 2.230235773443765873e-46 [0]
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-43: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.1s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-47: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-51: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-52: orbits 8 (single-orbit certifiable: 0), dim K = 2, dim Dist = 2, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-55: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-56: orbits 8 (single-orbit certifiable: 0), dim K = 2, dim Dist = 2, dim K/Dist = 0, rank(q,r) = 0 (0.1s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-59: orbits 4 (single-orbit certifiable: 0), dim K = 1, dim Dist = 1, dim K/Dist = 0, rank(q,r) = 0 (0.1s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-68: orbits 2 (single-orbit certifiable: 0), dim K = 0, dim Dist = 0, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-84: orbits 2 (single-orbit certifiable: 0), dim K = 0, dim Dist = 0, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-88: orbits 4 (single-orbit certifiable: 0), dim K = 0, dim Dist = 0, dim K/Dist = 0, rank(q,r) = 0 (0.1s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-104: orbits 4 (single-orbit certifiable: 0), dim K = 0, dim Dist = 0, dim K/Dist = 0, rank(q,r) = 0 (0.0s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-116: orbits 2 (single-orbit certifiable: 0), dim K = 0, dim Dist = 0, dim K/Dist = 0, rank(q,r) = 0 (0.1s)
+   zero complement vectors: 0 vanish formally (so q = 0 exactly); unexplained: 0
+d=-120: orbits 4 (single-orbit certifiable: 0), dim K = 0, dim Dist = 0, dim K/Dist = 0, rank(q,r) = 0 (0.1s)
+done (5.8s)
+POSITIVE (some certifiable combination with q != 0): [-3, -4, -8, -20]

@@ -1,0 +1,6 @@
+V1: closed sine form exact for k = 1..40: True; other modes vanish: True
+V2: closed sine form exact for k = 1..40: True; other modes vanish: True
+442 u/16 = 2^16*221: True | u/10 = 2^18/25 = 2^16*221*4/5525: True
+search vectors: 4 A_i = 5 V_i + Z (compendium relation (125)) for i = 1, 2: True
+numerical P(2, 2^20, 40, Z) at 200 digits (truncation error ~1e-190): -1.3984e-193
+PROPOSITION 5.1 STEPS VERIFIED EXACTLY {'V1': True, 'V2': True}

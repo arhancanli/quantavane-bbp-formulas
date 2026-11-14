@@ -1,0 +1,5 @@
+b2_k4_M120.json: 197 distinct prime factors, all proven prime: True, largest 97 bits
+b3_k4_M120.json: 243 distinct prime factors, all proven prime: True, largest 184 bits
+b5_k4_M120.json: 267 distinct prime factors, all proven prime: True, largest 270 bits
+b2_k6_M168_formal.json: 492 distinct prime factors, all proven prime: True, largest 144 bits
+ALL PRIME FACTORS PROVEN

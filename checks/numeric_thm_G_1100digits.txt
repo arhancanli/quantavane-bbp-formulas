@@ -1,0 +1,5 @@
+digits 1100:
+  D form residual        9.21e-1122
+  Im Li2 form residual   6.91e-1122   (Im Li2(i/2) - Ti2(1/2) = 0)
+  series form residual   9.21e-1122   (376 terms)
+  red control (G/5 -> G/4): -0.0457983
