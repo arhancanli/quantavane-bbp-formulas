@@ -114,6 +114,22 @@ The search programs, the certificates, the checking programs and the runs were w
 (Claude, by Anthropic) working for Quantavane under Arhan Canli's direction. No mathematician outside Quantavane has
 reviewed this repository; the certificates can be checked by anyone with the programs here or with their own.
 
+## How to cite
+
+If you use these certificates or programs, please cite them as below.
+
+```bibtex
+@misc{quantavane-bbp-formulas,
+  author       = {Canli, Arhan},
+  title        = {Binary BBP-type formulas for L(2, chi_d): certificates, search and checks},
+  year         = {2026},
+  howpublished = {\url{https://github.com/arhancanli/quantavane-bbp-formulas}},
+  note         = {Quantavane; CC BY 4.0 for the data and text, MIT licence for the code}
+}
+```
+
+[CITATION.cff](CITATION.cff) gives the same reference for GitHub's "Cite this repository" button.
+
 ## Licence
 
 The certificates, the outputs, the logs and the text are under CC BY 4.0 (`LICENSE`); the code is under the MIT
